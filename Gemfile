@@ -32,6 +32,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+gem 'pry'
+
 group :development, :test do
   gem 'byebug'
   gem 'spring'
@@ -39,4 +41,5 @@ group :development, :test do
   gem "factory_bot_rails"
   gem 'capybara'
   gem 'database_cleaner'
+
 end
