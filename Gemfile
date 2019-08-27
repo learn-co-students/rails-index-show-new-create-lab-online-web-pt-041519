@@ -40,3 +40,7 @@ group :development, :test do
   gem 'capybara'
   gem 'database_cleaner'
 end
+
+gem "nokogiri", "~> 1.10.2"
+
+gem "pry", "~> 0.12.2"
