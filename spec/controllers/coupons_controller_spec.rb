@@ -18,3 +18,4 @@ describe CouponsController do
   end
 
 end
+© 2019 GitHub, Inc.
